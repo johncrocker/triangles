@@ -13,9 +13,9 @@ So that I can pass my mathematics exam
 * The triangle is deemed to exist in two dimensional space
 
 **Acceptance Criteria:**
-AC1. Demonstrate through unit tests the working function.
-AC2. Demonstrate through unit tests the rejection of invalid lengths.
-AC3. The triangle is correctly identified.
+* AC1. Demonstrate through unit tests the working function.
+* AC2. Demonstrate through unit tests the rejection of invalid lengths.
+* AC3. The triangle is correctly identified.
 
 Definition of Done
 The code must be complete and runnable
